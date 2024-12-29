@@ -1,0 +1,6 @@
+# uniapp版NFT交易数字藏品系统/艺术品3D合成盲盒交易/二级市场
+
+后端为Tp框架<br>前端为uniapp<br>主要功能介绍<br>example.com：藏品发售购买交易<br>example.com：限时发售，到期自动上架<br>example.com：精选藏品出售，限量购买<br>example.com：用户的藏品可以直接挂售到市场自由交易<br>example.com：购买盲盒随机抽取藏品，后台可设置盲盒中的奖品<br>example.com：购买碎片可以合成对应的艺术品，后台灵活设置<br>example.com：用户之间可以自由转赠藏品<br>example.com：邀请好友赠送艺术品<br>下单前必看：<br>1、购买程序默认赠送安装教程文档，前提是需要懂点技术，可以根据安装教程安装，不懂技术的，可以联系客服。<br>2、购买前请先咨询客服，如因买方的个人运营需求未满足不从属于Bug。<br>3、关于需要协助二开，调试，另外收费，例如对接短信接口、协助对接上链等均不免费，且因为平时小店业务繁忙，不一定会承接此类业务。<br>4、本店不合作,不出租。<br>服务条款及免责声明（必看）<br>1、如无资质此代码仅仅用于研究与学习使用。<br>2、如投入生产模式请向当地部门报备，并且申请相关资质方可开展运营。<br>3、禁止违法违规使用程序，如强行投入，所产生的一切后果，一律自行承担，且与本店无关。<br>4、下单前所有疑虑要咨询客服，确保满足需求，所有程序按需使用，仅供学习参考。<br>PS：代码源于网络，仅用于方便大家学习研究使用。<br>免责声明，源码仅供交流测试，请勿用于商业途径及非法运营等，一切法律责任与本店及公司等相关人员无关，付款、购买代表同意该条款<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/2lRmd" style="color: red;">https://mega-file.org/2lRmd</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
